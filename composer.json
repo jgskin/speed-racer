@@ -1,0 +1,16 @@
+{
+    "name": "keep/speed-racer",
+    "description": "\"speed test suite\"",
+    "authors": [
+        {
+            "name": "Jessé Alves Galdino",
+            "email": "galdino.jesse@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Keep": "src/" }
+    },
+    "require": {
+
+    }
+}
